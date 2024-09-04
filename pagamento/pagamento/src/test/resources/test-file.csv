@@ -1,0 +1,4 @@
+dataVencimento,valor,descricao,situacao,dataPagamento
+01/01/2022,100.00,Conta de luz,PENDENTE,31/01/2022
+01/02/2022,220.00,Conta de luz,PENDENTE,28/02/2022
+01/03/2022,330.00,Conta de luz,PENDENTE,31/03/2022
