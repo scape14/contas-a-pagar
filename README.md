@@ -16,7 +16,8 @@ Este projeto implementa uma API REST para gerenciamento de contas usando Spring 
     Spring Boot: Framework para construção de APIs REST.
     Spring Data JPA: Mapeamento Objeto-Relacional (ORM) para interações de banco de dados.
     Spring Security: Estrutura para proteger a API.
-    PostgreSQL: banco de dados na memória para fins de desenvolvimento.
+    PostgreSQL: banco de dados para fins de desenvolvimento.
+    Docker: criação de container para desenvolvimento.
 
 # Estrutura do Projeto
 O projeto segue uma estrutura padrão do Spring Boot e DDD.
